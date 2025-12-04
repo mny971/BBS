@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BookBySeat alpha 2",
+  "description": "A mobile-first marketplace for individual seats on wakeboarding and sport fishing trips in Dubai.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
